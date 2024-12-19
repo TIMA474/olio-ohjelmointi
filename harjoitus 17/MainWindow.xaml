@@ -1,0 +1,12 @@
+﻿<Window x:Class="TaloWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Talon Kontrolli" Height="350" Width="525">
+    <Grid>
+        <Button Content="Valot Päälle/Pois" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="150" Click="ValotButton_Click"/>
+        <Slider x:Name="LämpötilaSlider" HorizontalAlignment="Left" Margin="10,50,0,0" VerticalAlignment="Top" Width="150" Minimum="0" Maximum="40" Value="20" TickFrequency="5" ValueChanged="LämpötilaSlider_ValueChanged"/>
+        <Button Content="Lukitse/Ota lukko pois" HorizontalAlignment="Left" Margin="10,90,0,0" VerticalAlignment="Top" Width="150" Click="OviButton_Click"/>
+
+
+    </Grid>
+</Window>

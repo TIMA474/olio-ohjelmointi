@@ -15,7 +15,27 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Harjoitus 5 Laskin", "Harjo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "harjoitus 6 eläin", "harjoitus 6 eläin\harjoitus 6 eläin.csproj", "{A26CF3CE-C12C-43BB-BC7B-127D9AC332BF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harjoitus 7 Hissi", "Harjoitus 7 Hissi\Harjoitus 7 Hissi.csproj", "{35463887-D1F7-4AB1-8478-EB5093A85CEA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Harjoitus 7 Hissi", "Harjoitus 7 Hissi\Harjoitus 7 Hissi.csproj", "{35463887-D1F7-4AB1-8478-EB5093A85CEA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "harjoitus 9 radio", "harjoitus 9 radio\harjoitus 9 radio.csproj", "{12A83992-B5F6-4952-BB06-F31E85BB4021}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "harjoitus 10 eläimet ja rajapinnat", "harjoitus 10 eläimet ja rajapinnat\harjoitus 10 eläimet ja rajapinnat.csproj", "{18B35E7F-9B41-47F3-9E5A-EF19088F6D8B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Harjoitus 11 Opiskelija Kokoelma", "Harjoitus 11 Opiskelija Kokoelma\Harjoitus 11 Opiskelija Kokoelma.csproj", "{6217FC13-CC93-4D65-899D-139A4121C597}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "harjoitus 12 korttipakka", "harjoitus 12 korttipakka\harjoitus 12 korttipakka.csproj", "{9578E6DC-4BDE-4E45-BBCB-9E0F094A07DE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "harjoitus 13", "harjoitus 13\harjoitus 13.csproj", "{EC968B04-527F-43A9-B935-5E390AEDB19E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "harjoitus 17", "harjoitus 17\harjoitus 17.csproj", "{F5E8CDA8-C778-4EC9-A597-2551049BE0CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "harjoitus 18", "harjoitus 18\harjoitus 18.csproj", "{1D82E271-4D38-480E-B431-B89AF6C3DD89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "harjoitus 21 kauppalista", "harjoitus 21 kauppalista\harjoitus 21 kauppalista.csproj", "{6763BA55-5C8C-4FB4-82AB-6DFC97265BA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "harjoitus 22", "harjoitus 22\harjoitus 22.csproj", "{39CF720A-E71A-4E43-AA5D-4C04277D58B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "harjoitus 24 lotto", "harjoitus 24 lotto\harjoitus 24 lotto.csproj", "{E7A5A5F8-8E6D-47B3-99B1-62E2EBE264DA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +71,46 @@ Global
 		{35463887-D1F7-4AB1-8478-EB5093A85CEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{35463887-D1F7-4AB1-8478-EB5093A85CEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{35463887-D1F7-4AB1-8478-EB5093A85CEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12A83992-B5F6-4952-BB06-F31E85BB4021}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12A83992-B5F6-4952-BB06-F31E85BB4021}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12A83992-B5F6-4952-BB06-F31E85BB4021}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12A83992-B5F6-4952-BB06-F31E85BB4021}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18B35E7F-9B41-47F3-9E5A-EF19088F6D8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18B35E7F-9B41-47F3-9E5A-EF19088F6D8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18B35E7F-9B41-47F3-9E5A-EF19088F6D8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18B35E7F-9B41-47F3-9E5A-EF19088F6D8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6217FC13-CC93-4D65-899D-139A4121C597}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6217FC13-CC93-4D65-899D-139A4121C597}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6217FC13-CC93-4D65-899D-139A4121C597}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6217FC13-CC93-4D65-899D-139A4121C597}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9578E6DC-4BDE-4E45-BBCB-9E0F094A07DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9578E6DC-4BDE-4E45-BBCB-9E0F094A07DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9578E6DC-4BDE-4E45-BBCB-9E0F094A07DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9578E6DC-4BDE-4E45-BBCB-9E0F094A07DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC968B04-527F-43A9-B935-5E390AEDB19E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC968B04-527F-43A9-B935-5E390AEDB19E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC968B04-527F-43A9-B935-5E390AEDB19E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC968B04-527F-43A9-B935-5E390AEDB19E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5E8CDA8-C778-4EC9-A597-2551049BE0CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5E8CDA8-C778-4EC9-A597-2551049BE0CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5E8CDA8-C778-4EC9-A597-2551049BE0CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5E8CDA8-C778-4EC9-A597-2551049BE0CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D82E271-4D38-480E-B431-B89AF6C3DD89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D82E271-4D38-480E-B431-B89AF6C3DD89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D82E271-4D38-480E-B431-B89AF6C3DD89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D82E271-4D38-480E-B431-B89AF6C3DD89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6763BA55-5C8C-4FB4-82AB-6DFC97265BA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6763BA55-5C8C-4FB4-82AB-6DFC97265BA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6763BA55-5C8C-4FB4-82AB-6DFC97265BA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6763BA55-5C8C-4FB4-82AB-6DFC97265BA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39CF720A-E71A-4E43-AA5D-4C04277D58B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39CF720A-E71A-4E43-AA5D-4C04277D58B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39CF720A-E71A-4E43-AA5D-4C04277D58B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39CF720A-E71A-4E43-AA5D-4C04277D58B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7A5A5F8-8E6D-47B3-99B1-62E2EBE264DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7A5A5F8-8E6D-47B3-99B1-62E2EBE264DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7A5A5F8-8E6D-47B3-99B1-62E2EBE264DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7A5A5F8-8E6D-47B3-99B1-62E2EBE264DA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
